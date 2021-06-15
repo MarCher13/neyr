@@ -1,0 +1,11 @@
+Model Information:
+* title:	Girl with a pearl earring
+* source:	https://sketchfab.com/3d-models/girl-with-a-pearl-earring-5898c09d78b0400b8a566f5369ef3dc0
+* author:	Stev_3D (https://sketchfab.com/Stev_3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Girl with a pearl earring" (https://sketchfab.com/3d-models/girl-with-a-pearl-earring-5898c09d78b0400b8a566f5369ef3dc0) by Stev_3D (https://sketchfab.com/Stev_3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
